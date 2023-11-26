@@ -20,6 +20,12 @@
     margin: 0 auto;  /* Center the image */
 }
 
+.card-body h2 {
+    font-family: cursive , sans-serif;
+    color: #db9deb;
+    padding-top: 1rem;
+}
+
 @media (max-width: 576px) {
     /* Adjust styles for screens smaller than 576px (phones) */
     body {
