@@ -1,0 +1,44 @@
+#logo {
+    width: 50%; /* Adjust the percentage based on your preference */
+    max-width: 100px; /* You can also use max-width for a maximum size */
+    height: auto; /* Maintain aspect ratio */
+    margin: 0 auto; /* Center the image */
+}
+
+#massage{
+    padding-top: 1%;
+    width: 100%; /* Adjust the percentage based on your preference */
+    max-width: 200px; /* You can also use max-width for a maximum size */
+    height: auto; /* Maintain aspect ratio */
+    margin: 0 auto; /* Center the image */
+}
+
+.img-fluid {
+    max-width: 50%; /* Adjust the percentage based on your preference */
+    height: auto;   /* Maintain aspect ratio */
+    display: block; /* Remove any default margin or padding */
+    margin: 0 auto;  /* Center the image */
+}
+
+@media (max-width: 576px) {
+    /* Adjust styles for screens smaller than 576px (phones) */
+    body {
+        font-size: 14px; /* Adjust the font size or any other styles */
+    }
+
+    .card {
+        width: 80%; /* Adjust the width of the card on smaller screens */
+    }
+}
+
+/* Additional media queries for other screen sizes if needed */
+@media (min-width: 577px) and (max-width: 768px) {
+    /* Adjust styles for screens between 577px and 768px (tablets) */
+    body {
+        font-size: 16px; /* Adjust the font size or any other styles */
+    }
+
+    .card {
+        width: 60%; /* Adjust the width of the card on medium screens */
+    }
+}
