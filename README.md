@@ -11,6 +11,7 @@
     <div class="card text-center">
         <div class="card-header">
           <h3>Gift Card</h3>
+          <h3>$250</h3>
         </div>
         <div class="card-body">
           <img id = "logo" src="strom-logo.PNG" alt="Gift Card Image" class="img-fluid">
@@ -20,7 +21,7 @@
         <div class="card-footer text-body-secondary">
           <a href="https://boutique.stromspa.com/" class="btn btn-warning">Go to website</a>
         </div>
-          <h3>$250</h3>
+          
     </div>
     
 
