@@ -16,7 +16,7 @@
         <div class="card-body">
           <img id = "logo" src="strom-logo.PNG" alt="Gift Card Image" class="img-fluid">
           <img id = "massage" src="massage.PNG" class="img-fluid" alt="Massage Image">
-          
+          <h2>Happy Birthday! You deserve this!</h2>
         </div>
         <div class="card-footer text-body-secondary">
           <a href="https://boutique.stromspa.com/" class="btn btn-warning">Go to website</a>
